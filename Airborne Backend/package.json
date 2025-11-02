@@ -1,0 +1,29 @@
+{
+  "name": "airborne-backend",
+  "version": "1.0.0",
+  "description": "This is the security website backend for airborne security website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SANTS2006/Airborne-Security-Company-Website.git"
+  },
+  "keywords": [
+    "airbone",
+    "security",
+    "website"
+  ],
+  "author": "Newton Tamba Sam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SANTS2006/Airborne-Security-Company-Website/issues"
+  },
+  "homepage": "https://github.com/SANTS2006/Airborne-Security-Company-Website#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "nodemailer": "^7.0.10"
+  }
+}
